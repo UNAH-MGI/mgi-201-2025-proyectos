@@ -11,43 +11,27 @@ Plazo de envío: 1 de julio de 2025
 Modalidades: virtual o presencial, ambas con presentación de 15 min + 5 min de preguntas .
 
 ### Áreas temáticas:
-Metodologías activas de aprendizaje
-Estrategias alternativas de evaluación
-Innovación académica en salud
-Inteligencia artificial en educación 
-easychair.org
-
+- Metodologías activas de aprendizaje
+- Estrategias alternativas de evaluación
+- Innovación académica en salud
+- Inteligencia artificial en educación 
 
 ### Formato de envío – resumen (abstract):
-
-Un solo párrafo de 400–500 palabras, en Times New Roman 10 pt.
-
-Estructura obligatoria: Introducción, Métodos, Resultados y Conclusiones.
-
-Redacción en tercera persona y tiempo pasado.
-
-Sin referencias bibliográficas.
-
-Se permite incluir una figura o tabla al final; si la usas, mantén máximo 400 palabras y utiliza toda la página de la plantilla. Si no, llena una columna y media 
+- Un solo párrafo de 400–500 palabras, en Times New Roman 10 pt.
+- Estructura obligatoria: Introducción, Métodos, Resultados y Conclusiones.
+- Redacción en tercera persona y tiempo pasado.
+- Sin referencias bibliográficas.
+- Se permite incluir una figura o tabla al final; si la usas, mantén máximo 400 palabras y utiliza toda la página de la plantilla. Si no, llena una columna y media 
 resources.illc.uva.nl
 
-Envío:
-
+### Envío:
 A través de EasyChair, solo en formato PDF.
-
 Debes declarar conflictos de interés y máximo 3 ponencias como autor principal o 4 como coautor 
-easychair.org
 
-Resultados:
-
+### Resultados:
 Notificación de aceptación: 1–7 de agosto de 2025.
-
 Envío de versión final: 1–15 de agosto de 2025.
-
 Programa publicado: 1 de septiembre de 2025 
-resources.illc.uva.nl
 
-
-Publicación:
-
+### Publicación:
 Las ponencias aceptadas se publicarán en un suplemento especial de una revista institucional de UNITEC
