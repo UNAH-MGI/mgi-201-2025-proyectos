@@ -19,16 +19,15 @@ Gestión de la Educación Virtual (e-learning) - Proyectos
 
 ## Reuniones con los grupos para la clase del 2025-07-05
 Se corrió un algoritmo con base aleatoria para decidir el orden. Este fue el resultado:
-|-----|-----|
-| Hora | Grupo |
-|------ | ------|
-| 3:30 pm | 1 |
-| 3:50 pm | 4 |
-| 4:10 pm | 2 |
-| 4:30 pm | 6 |
-| 4:50 pm | 5 |
-| 5:10 pm | 3 |
-|-------|--|
+| Hora     | Grupo |
+|----------|--------|
+| 3:30 pm  | 1      |
+| 3:50 pm  | 4      |
+| 4:10 pm  | 2      |
+| 4:30 pm  | 6      |
+| 4:50 pm  | 5      |
+| 5:10 pm  | 3      |
+
 
 ## Resumen del CFP CIE2025
 Evento: Congreso de Innovación Educativa UNITEC-CEUTEC 2025, 5.ª edición.
