@@ -5,8 +5,8 @@ Gestión de la Educación Virtual (e-learning) - Proyectos
 * Crear el respositorio con el siguiente formato: *MGI-201-grupo-XY-DescripcionBreve*
 * XY son números
 * DescripcionBreve significa identificar su trabajo en dos palabras
-* Ejemplo: grupo-09-FlippedClassroomAI
-* Noten el uso de minúsculas únicamente (sólo utilizar mayúsculas si es estrictamente necesario). Pueden utilizar *Pascal Case* para el tema de su trabajo (DescripcionBreve).
+* Ejemplo: MGI-201-Grupo-09-FlippedClassroomAI
+* Pueden utilizar *Pascal Case* para el tema de su trabajo (DescripcionBreve).
 * No olviden incluir el nombre de los(as) participantes del grupo.
 
   *Notas*: Mientras más largo es el nombre del repositorio más difícil es interactuar con él desde la terminal.
