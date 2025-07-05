@@ -22,12 +22,12 @@ Gestión de la Educación Virtual (e-learning) - Proyectos
 Se corrió un algoritmo con base aleatoria para decidir el orden. Este fue el resultado:
 | Hora     | Grupo |
 |----------|--------|
-| 3:30 pm  | 1      |
-| 3:50 pm  | 4      |
-| 4:10 pm  | 2      |
-| 4:30 pm  | 6      |
-| 4:50 pm  | 5      |
-| 5:10 pm  | 3      |
+| 4:00 pm  | 1      |
+| 4:20 pm  | 4      |
+| 4:40 pm  | 2      |
+| 5:00 pm  | 6      |
+| 5:20 pm  | 5      |
+| 5:40 pm  | 3      |
 
 ## Presentación de los proyectos
 - Fecha: 2025-07-12
