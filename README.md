@@ -29,6 +29,10 @@ Se corrió un algoritmo con base aleatoria para decidir el orden. Este fue el re
 | 4:50 pm  | 5      |
 | 5:10 pm  | 3      |
 
+## Presentación de los proyectos
+- Fecha: 2025-07-12
+- Hora: 3:30 pm
+- Orden: Se dará el Viernes (2025-07-11) por la noche.
 
 ## Resumen del CFP CIE2025
 Evento: Congreso de Innovación Educativa UNITEC-CEUTEC 2025, 5.ª edición.
