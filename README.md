@@ -11,6 +11,12 @@ Gestión de la Educación Virtual (e-learning) - Proyectos
 
   *Notas*: Mientras más largo es el nombre del repositorio más difícil es interactuar con él desde la terminal.
 
+## Lineamientos de seguimiento de actividades y buenas prácticas
+* Crear su repositorio de código fuente para el proyecto.
+* Crear su cuenta y workspace en Trello.
+* Crear actividades en Trello para cada miembro del equipo.
+* Subir todos los cambios necesarios al repositorio de código.
+
 ## Resumen del CFP CIE2025
 Evento: Congreso de Innovación Educativa UNITEC-CEUTEC 2025, 5.ª edición.
 
