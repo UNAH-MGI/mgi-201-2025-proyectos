@@ -117,7 +117,7 @@ e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
 ---
 
 ## 8. Referencias
-Formato APA o IEEE (elige uno para toda la clase)
+Formato APA
 
 ```markdown
 - Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. http://www.elearnspace.org/Articles/connectivism.htm
