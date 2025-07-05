@@ -2,7 +2,7 @@
 Gestión de la Educación Virtual (e-learning) - Proyectos
 
 ## Lineamientos para creación de repositorio
-* Crear el respositorio con el siguiente formato: *MGI-201-grupo-XY-DescripcionBreve*
+* Crear el respositorio con el siguiente formato: *MGI-201-Grupo-XY-DescripcionBreve*
 * XY son números
 * DescripcionBreve significa identificar su trabajo en dos palabras
 * Ejemplo: MGI-201-Grupo-09-FlippedClassroomAI
