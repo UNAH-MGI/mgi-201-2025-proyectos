@@ -12,9 +12,10 @@ Gestión de la Educación Virtual (e-learning) - Proyectos
   *Notas*: Mientras más largo es el nombre del repositorio más difícil es interactuar con él desde la terminal.
 
 ## Lineamientos de seguimiento de actividades y buenas prácticas
-* Crear su repositorio de código fuente para el proyecto.
-* Crear su cuenta y workspace en Trello.
+* Crear su repositorio de código fuente para el proyecto (uno por grupo).
+* Crear su cuenta (todos los miembros del grupo) y workspace en Trello.
 * Crear actividades en Trello para cada miembro del equipo.
+* Crear un documento compartido en dónde puedan colaborar (Google doc, Word en one drive)
 * Subir todos los cambios necesarios al repositorio de código.
 
 ## Reuniones con los grupos para la clase del 2025-07-05
