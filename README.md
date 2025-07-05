@@ -1,6 +1,15 @@
 # mgi-201-2025-proyectos
 Gestión de la Educación Virtual (e-learning) - Proyectos
 
+## Lineamientos para creación de repositorio
+* Crear el respositorio con el siguiente formato: *Grupo-XY-DescripcionBreve*
+* XY son números
+* DescripcionBreve significa identificar su trabajo en dos palabras
+* Ejemplo: grupo-09-flippedclassroomai
+* Noten el uso de minúsculas únicamente (sólo utilizar mayúsculas si es estrictamente necesario).
+
+  Notas: Mientras más largo es el nombre del repositorio más difícil es interactuar con él desde la terminal.
+
 ## Resumen del CFP CIE2025
 Evento: Congreso de Innovación Educativa UNITEC-CEUTEC 2025, 5.ª edición.
 
