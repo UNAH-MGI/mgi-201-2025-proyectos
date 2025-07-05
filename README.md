@@ -2,13 +2,14 @@
 Gestión de la Educación Virtual (e-learning) - Proyectos
 
 ## Lineamientos para creación de repositorio
-* Crear el respositorio con el siguiente formato: *Grupo-XY-DescripcionBreve*
+* Crear el respositorio con el siguiente formato: *grupo-XY-DescripcionBreve*
 * XY son números
 * DescripcionBreve significa identificar su trabajo en dos palabras
-* Ejemplo: grupo-09-flippedclassroomai
-* Noten el uso de minúsculas únicamente (sólo utilizar mayúsculas si es estrictamente necesario).
+* Ejemplo: grupo-09-FlippedClassroomAI
+* Noten el uso de minúsculas únicamente (sólo utilizar mayúsculas si es estrictamente necesario). Pueden utilizar *Pascal Case* para el tema de su trabajo (DescripcionBreve).
+* No olviden incluir el nombre de los(as) participantes del grupo.
 
-  Notas: Mientras más largo es el nombre del repositorio más difícil es interactuar con él desde la terminal.
+  *Notas*: Mientras más largo es el nombre del repositorio más difícil es interactuar con él desde la terminal.
 
 ## Resumen del CFP CIE2025
 Evento: Congreso de Innovación Educativa UNITEC-CEUTEC 2025, 5.ª edición.
