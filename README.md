@@ -34,6 +34,99 @@ Se corrió un algoritmo con base aleatoria para decidir el orden. Este fue el re
 - Hora: 3:30 pm
 - Orden: Se dará el Viernes (2025-07-11) por la noche.
 
+## plantilla para el informe final del proyecto CapStone
+# Título del Proyecto
+_(Debe ser claro, preciso y reflejar el tema del proyecto)_
+
+## Autores
+- Nombre completo del autor 1 – Universidad, correo electrónico
+- Nombre completo del autor 2 (si aplica)
+- Nombre completo del autor 3 (si aplica)
+- Nombre completo del autor 4 (si aplica)
+
+## Resumen (Abstract)
+Resumen estructurado (máx. 300 palabras). Debe incluir:
+- Objetivo del proyecto
+- Breve descripción del problema
+- Metodología utilizada
+- Principales hallazgos o resultados
+- Conclusiones clave
+_(Este resumen debe permitir al lector entender el propósito e innovación del proyecto)_
+
+## Palabras clave
+e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
+
+---
+
+## 1. Introducción
+- Contexto general del problema
+- Marco teórico breve o antecedentes
+- Relevancia del proyecto (¿por qué importa?)
+- Objetivo(s) del proyecto
+- Pregunta(s) de investigación (si aplica)
+- Hipótesis (opcional, si es investigación cuantitativa)
+
+---
+
+## 2. Marco Teórico y Estado del Arte
+- Revisión breve de literatura relevante (puede ser modelos educativos, tecnologías, pedagogías digitales)
+- Referencias a artículos, normas, autores clave
+- Justificación del enfoque elegido
+- Conceptos clave definidos
+
+---
+
+## 3. Metodología
+- Tipo de proyecto: investigación aplicada, diseño instruccional, desarrollo tecnológico, etc.
+- Enfoque: cualitativo, cuantitativo o mixto
+- Técnicas: entrevistas, encuestas, pruebas de usabilidad, etc.
+- Herramientas y plataformas utilizadas (ej. Moodle, H5P, Google Classroom, etc.)
+- Participantes o muestra (si aplica)
+- Etapas del proyecto
+
+---
+
+## 4. Desarrollo / Implementación
+- Descripción de las soluciones o actividades diseñadas
+- Capturas de pantalla, diagramas o flujogramas (usa `![alt](url)` en markdown)
+- Resultados preliminares u observaciones durante el proceso
+- Problemas encontrados y cómo se resolvieron
+
+---
+
+## 5. Resultados
+- Hallazgos del proyecto: mejoras, aprendizajes, resultados de evaluación
+- Tablas o gráficos relevantes (`| Métrica | Resultado |`)
+- Evidencia de impacto en la enseñanza, aprendizaje o gestión
+
+---
+
+## 6. Discusión
+- Interpretación de los resultados
+- Comparación con otros estudios o teorías (opcional)
+- Reflexión crítica sobre el alcance del proyecto
+- Lecciones aprendidas
+
+---
+
+## 7. Conclusiones y Recomendaciones
+- Principales aportes del proyecto
+- Sugerencias para docentes, instituciones u otros estudiantes
+- Recomendaciones para futuras investigaciones o mejoras
+
+---
+
+## 8. Referencias
+Formato APA o IEEE (elige uno para toda la clase)
+
+```markdown
+- Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. http://www.elearnspace.org/Articles/connectivism.htm
+- Anderson, T. (2008). *The Theory and Practice of Online Learning* (2nd ed.). Athabasca University Press.
+```
+
+
+---
+
 ## Resumen del CFP CIE2025
 Evento: Congreso de Innovación Educativa UNITEC-CEUTEC 2025, 5.ª edición.
 
