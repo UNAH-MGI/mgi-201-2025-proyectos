@@ -68,7 +68,7 @@ e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
 
 ---
 
-## 2. Marco Teórico y Estado del Arte
+## 2. Marco Teórico y (State of the Art)
 - Revisión breve de literatura relevante (puede ser modelos educativos, tecnologías, pedagogías digitales)
 - Referencias a artículos, normas, autores clave
 - Justificación del enfoque elegido
