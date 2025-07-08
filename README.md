@@ -18,6 +18,11 @@ Gestión de la Educación Virtual (e-learning) - Proyectos
 * Crear un documento compartido en dónde puedan colaborar (Google doc, Word en one drive)
 * Subir todos los cambios necesarios al repositorio de código.
 
+## Horas de oficina
+Estas son las horas de oficina para esta semana **Julio 08 hasta Julio 10** (5:00 pm a 6:00 pm, reuniones de 30 minutos). Pueden seleccionar su hora acá: 
+
+https://calendly.com/serviopalacios/meeting-with-dr-palacios
+
 ## Reuniones con los grupos para la clase del 2025-07-05
 Se corrió un algoritmo con base aleatoria para decidir el orden. Este fue el resultado:
 | Hora     | Grupo |
@@ -32,10 +37,11 @@ Se corrió un algoritmo con base aleatoria para decidir el orden. Este fue el re
 ## Presentación de los proyectos
 - Fecha: 2025-07-12
 - Hora: 3:30 pm
+- 30 minutos por grupo
 - Orden: Se dará el Viernes (2025-07-11) por la noche.
 
-## plantilla para el informe final del proyecto CapStone
-# Título del Proyecto
+# Plantilla para el informe final del proyecto CapStone
+## Título del Proyecto
 _(Debe ser claro, preciso y reflejar el tema del proyecto)_
 
 ## Autores
@@ -124,6 +130,51 @@ Formato APA. Usa Zotero o Mendeley para gestionar referencias.
 - Anderson, T. (2008). *The Theory and Practice of Online Learning* (2nd ed.). Athabasca University Press.
 ```
 
+---
+
+# Rúbrica de Evaluación – Proyecto Capstone  
+**Clase: Maestría en Gestión de la Educación Virtual**
+
+---
+
+## Instrucciones para la entrega
+
+Cada grupo deberá entregar los siguientes documentos:
+
+1. **Reporte final** (formato PDF)  
+2. **Diapositivas de presentación** (PDF o PPT)
+
+### Requisitos de formato de archivo:
+- **Nombre del archivo del reporte:** Sigue los lineamientos para creación de repositorio, genera el reporte final con el nombre del repositorio. Ejemplo: MGI-201-Grupo-09-FlippedClassroomAI_reporte.pdf
+- **Nombre del archivo de las diapositivas:** Ejemplo: `MGI-201-Grupo-09-FlippedClassroomAI_presentacion.pdf`
+- Noten que no se utilizan tildes en los nombres para prevenir cualquier error de formato con las herramientas.
+
+### Ambos documentos deben incluir:
+- Título del proyecto
+- Nombre completo de todos los integrantes
+- Fecha de entrega
+- Repositorio de código fuente y QR Code
+- Trello Board
+
+---
+
+## Rúbrica de Evaluación (máximo 30 puntos)
+
+| Criterio | Descripción | Puntaje |
+|---------|-------------|--------|
+| **1. Originalidad e Innovación** | El proyecto presenta ideas nuevas, creativas o disruptivas que responden a una problemática relevante en educación virtual. Evita el uso superficial o genérico de herramientas. | /5 |
+| **2. Uso estratégico de tecnología educativa / IA** | Uso pertinente, ético y fundamentado de herramientas tecnológicas (especialmente IA). Se explica cómo se usaron y qué se generó con IA vs. aportes originales. | /5 |
+| **3. Relevancia y profundidad del contenido** | El contenido aborda con claridad y profundidad el problema, contexto, propuesta, resultados esperados y análisis. Se citan fuentes si aplica. | /5 |
+| **4. Calidad del reporte escrito** | Claridad en la redacción, estructura lógica, gramática correcta, uso de tablas, imágenes o anexos donde aplique, utilización correcta de referencias. Cumple con instrucciones. | /5 |
+| **5. Calidad de las diapositivas** | Visualmente claras, bien organizadas, sin sobrecarga de texto. Resumen efectivo de los puntos clave. | /1 |
+| **6. Presentación oral del grupo** | Claridad en la exposición, dominio del tema, distribución equitativa de roles (demostrado por asignaciones, commit/push en Github, y Trello board), capacidad de responder preguntas. | /5 |
+| **7. Impacto potencial del proyecto** | Se justifica el valor educativo del proyecto. Se evalúa su aplicabilidad, escalabilidad o sostenibilidad. | /2 |
+| **8. Ética y transparencia del uso de IA** | Se declara claramente qué partes del trabajo fueron generadas con IA. No se presenta trabajo completamente automatizado sin reflexión. | /2 |
+
+** Puntaje total:** `/30`
+
+**Nota**
+- Se examinará el contenido de cada reporte para verificar el uso de AI en su generación. Es importante utilizar estas aplicaciones/tecnología (ChatGTP, Gemini, Grok, Copilot, etc.) como herramientas, esto es, se debe revisar la salida, editarla a su gusto, y luego compartir cualquier salida que considere conveniente. En conclusión, no podemos depender únicamente de AI (en este punto del tiempo), para generar opiniones críticas, reportes o crear propuestas. Se espera la inversión de tiempo de cada grupo para pulir, resumir, y contextualizar cada uno de los trabajos. Trabajos que tengan una parte significativa (sin resumir, pulir, revisar, etc.) del contenido generado por AI sin contexto, significancia o relevancia en el proyecto, serán penalizados. 
 
 ---
 
