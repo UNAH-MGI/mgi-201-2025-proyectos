@@ -62,8 +62,6 @@ _(Este resumen debe permitir al lector entender el propósito e innovación del 
 ## Palabras clave
 e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
 
----
-
 ## 1. Introducción
 - Contexto general del problema
 - Marco teórico breve o antecedentes
@@ -120,7 +118,6 @@ Formato APA. Usa Zotero o Mendeley para gestionar referencias.
 ---
 
 # Rúbrica de Evaluación – Proyecto Capstone  
-**Clase: Maestría en Gestión de la Educación Virtual**
 
 ## Instrucciones para la entrega
 
@@ -130,7 +127,7 @@ Cada grupo deberá entregar los siguientes documentos:
 2. **Diapositivas de presentación** (PDF o PPT)
 
 ### Requisitos de formato de archivo:
-- **Nombre del archivo del reporte:** Sigue los lineamientos para creación de repositorio, genera el reporte final con el nombre del repositorio. Ejemplo: MGI-201-Grupo-09-FlippedClassroomAI_reporte.pdf
+- **Nombre del archivo del reporte:** Sigue los lineamientos para creación de repositorio, genera el reporte final con el nombre del repositorio. Ejemplo: `MGI-201-Grupo-09-FlippedClassroomAI_reporte.pdf`
 - **Nombre del archivo de las diapositivas:** Ejemplo: `MGI-201-Grupo-09-FlippedClassroomAI_presentacion.pdf`
 - Noten que no se utilizan tildes en los nombres para prevenir cualquier error de formato con las herramientas.
 
