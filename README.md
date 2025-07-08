@@ -72,15 +72,12 @@ e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
 - Pregunta(s) de investigación (si aplica)
 - Hipótesis (opcional, si es investigación cuantitativa)
 
----
 
 ## 2. Marco Teórico y (State of the Art)
 - Revisión breve de literatura relevante (puede ser modelos educativos, tecnologías, pedagogías digitales)
 - Referencias a artículos, normas, autores clave
 - Justificación del enfoque elegido
 - Conceptos clave definidos
-
----
 
 ## 3. Metodología
 - Tipo de proyecto: investigación aplicada, diseño instruccional, desarrollo tecnológico, etc.
@@ -90,22 +87,16 @@ e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
 - Participantes o muestra (si aplica)
 - Etapas del proyecto
 
----
-
 ## 4. Desarrollo / Implementación
 - Descripción de las soluciones o actividades diseñadas
 - Capturas de pantalla, diagramas o flujogramas (usa `![alt](url)` en markdown)
 - Resultados preliminares u observaciones durante el proceso
 - Problemas encontrados y cómo se resolvieron
 
----
-
 ## 5. Resultados
 - Hallazgos del proyecto: mejoras, aprendizajes, resultados de evaluación
 - Tablas o gráficos relevantes (`| Métrica | Resultado |`)
 - Evidencia de impacto en la enseñanza, aprendizaje o gestión
-
----
 
 ## 6. Discusión
 - Interpretación de los resultados
@@ -113,14 +104,10 @@ e-learning, innovación educativa, plataformas virtuales, [agrega hasta 5]
 - Reflexión crítica sobre el alcance del proyecto
 - Lecciones aprendidas
 
----
-
 ## 7. Conclusiones y Recomendaciones
 - Principales aportes del proyecto
 - Sugerencias para docentes, instituciones u otros estudiantes
 - Recomendaciones para futuras investigaciones o mejoras
-
----
 
 ## 8. Referencias
 Formato APA. Usa Zotero o Mendeley para gestionar referencias.
@@ -134,8 +121,6 @@ Formato APA. Usa Zotero o Mendeley para gestionar referencias.
 
 # Rúbrica de Evaluación – Proyecto Capstone  
 **Clase: Maestría en Gestión de la Educación Virtual**
-
----
 
 ## Instrucciones para la entrega
 
@@ -156,8 +141,6 @@ Cada grupo deberá entregar los siguientes documentos:
 - Repositorio de código fuente y QR Code
 - Trello Board
 
----
-
 ## Rúbrica de Evaluación (máximo 30 puntos)
 
 | Criterio | Descripción | Puntaje |
@@ -171,7 +154,7 @@ Cada grupo deberá entregar los siguientes documentos:
 | **7. Impacto potencial del proyecto** | Se justifica el valor educativo del proyecto. Se evalúa su aplicabilidad, escalabilidad o sostenibilidad. | /2 |
 | **8. Ética y transparencia del uso de IA** | Se declara claramente qué partes del trabajo fueron generadas con IA. No se presenta trabajo completamente automatizado sin reflexión. | /2 |
 
-** Puntaje total:** `/30`
+**Puntaje total:** `/30`
 
 **Nota**
 - Se examinará el contenido de cada reporte para verificar el uso de AI en su generación. Es importante utilizar estas aplicaciones/tecnología (ChatGTP, Gemini, Grok, Copilot, etc.) como herramientas, esto es, se debe revisar la salida, editarla a su gusto, y luego compartir cualquier salida que considere conveniente. En conclusión, no podemos depender únicamente de AI (en este punto del tiempo), para generar opiniones críticas, reportes o crear propuestas. Se espera la inversión de tiempo de cada grupo para pulir, resumir, y contextualizar cada uno de los trabajos. Trabajos que tengan una parte significativa (sin resumir, pulir, revisar, etc.) del contenido generado por AI sin contexto, significancia o relevancia en el proyecto, serán penalizados. 
